@@ -78,4 +78,3 @@ void end_transaction(void)
     while (((SPI1_SR) & (1 << 7)));
     end();
 }
-/*ok*/
