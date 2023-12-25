@@ -1,4 +1,4 @@
-#include "sppppi.h"
+#include "spimaster.h"
 void BEGIN(void)
 {
     RCC_APB2ENR |= (1 << 12);        // Enable SPI1 CLock

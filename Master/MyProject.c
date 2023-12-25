@@ -1,4 +1,4 @@
- #include "sppppi.h"
+ #include "spimaster.h"
  uint8_t x=0;
  void main()
  {     BEGIN();

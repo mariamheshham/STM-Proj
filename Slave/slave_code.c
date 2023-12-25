@@ -1,4 +1,4 @@
- #include "sppppi.h"
+ #include "spislave.h"
   uint8_t x=0;
  void main()
  {     BEGIN();  // slave mode and pa9 is input
